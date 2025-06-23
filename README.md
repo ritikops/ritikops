@@ -18,8 +18,8 @@ I am a Cloud and DevOps Engineer ☁️, Passionate about helping people get int
 
 ### 🏄‍♂️ Connect with me
    <p align="left">
-   <a href="www.linkedin.com/in/ritik-jain-anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/ritikjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikops" height="30" width="40" /></a>
-   <a href="[https://instagram.com/ritikops](https://www.instagram.com/as_ritiks?igsh=MXd5YjlnczRodTI0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/ritikjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritikops" height="30" width="40" /></a>
+   <a href="www.linkedin.com/in/ritik-jain-anilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/ritikjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RitikJain" height="30" width="40" /></a>
+   <a href="[https://instagram.com/ritikops](https://www.instagram.com/as_ritiks?igsh=MXd5YjlnczRodTI0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/ritikjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RitikJain" height="30" width="40" /></a>
    </p>
 <!---
 ritikops/ritikops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
